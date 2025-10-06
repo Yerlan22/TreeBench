@@ -1,11 +1,11 @@
-# 🌳 TreeBench — Generic Tree Structures Benchmark
+# TreeBench — Generic Tree Structures Benchmark
 
 **TreeBench** is a C++ interactive console program designed to **implement, test, and compare different tree data structure representations**.  
 It also includes a **queue (Cola)** data structure and supports **execution time measurements** to analyze the performance of various algorithms.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project provides a **hands-on environment** for studying and experimenting with several tree representations, including:
 
